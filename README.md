@@ -1,2 +1,3 @@
-# mi-portfolio
-Desarrollo de mi portfolio minimalista con html + css y una pizca de js
+# Mi portfolio
+
+Desarrollo de mi portfolio minimalista con html y css
